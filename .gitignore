@@ -1,0 +1,9 @@
+**/target
+/Cargo.lock
+.direnv
+.vscode/
+.idea/
+*.redb
+*.sqlite*
+config.toml
+.pre-commit-config.yaml
